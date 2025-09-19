@@ -43,10 +43,8 @@ Database used: **SSIS_Telecom_DB**
 
 ## 🖼️ Data Flow Screenshots
 
-### Data Flow – File Extraction & Validation
 <img width="1016" height="437" alt="Image" src="https://github.com/user-attachments/assets/ffcc3efc-9bf0-4070-b433-774fc635b14a" />
 
-### Data Flow – Transformation & Load
 <img width="972" height="387" alt="Image" src="https://github.com/user-attachments/assets/ebff865f-edf3-4adb-91b9-160b8cf0c6db" />
 
 ---
