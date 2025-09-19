@@ -2,7 +2,7 @@
 
 This repository contains an **SSIS-based ETL solution** for automating the ingestion, transformation, and storage of telecom call detail records (CDRs).  
 The pipeline is designed to handle frequent raw data ingestion while ensuring **data quality, consistency, and auditability**.
-
+<img width="1016" height="437" alt="Image" src="https://github.com/user-attachments/assets/ffcc3efc-9bf0-4070-b433-774fc635b14a" />
 ---
 
 ## ✨ Key Features
