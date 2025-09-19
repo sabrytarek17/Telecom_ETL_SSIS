@@ -25,17 +25,6 @@ The SSIS package performs the following operations:
 
 ---
 
-## 📂 Project Structure
-```bash
-Telecom_ETL_SSIS_Project/
-├── Packages/          # SSIS .dtsx files
-├── Config/            # Connection and environment settings
-├── SQL_Scripts/       # Table creation and cleanup scripts
-├── images/            # Project diagrams & Data Flow screenshots
-├── README.md          # This documentation file
-└── Telecom_ETL_SSIS.dtproj  # Main SSIS project file
-
-
 
 ## 🧪 Transformation Rules
 
