@@ -36,7 +36,7 @@ The pipeline ensures:
 ## 📸 Screenshots
 
 ### Data Flow Task – Part 1
-![Data Flow Task – Part 1](images/dataflow_part1.png)
+![Data Flow Task – Part 1](Screenshot 2025-09-18 003332.png)
 
 ### Data Flow Task – Part 2
 ![Data Flow Task – Part 2](images/dataflow_part2.png)
