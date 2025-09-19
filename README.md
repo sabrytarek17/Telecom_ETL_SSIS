@@ -31,22 +31,10 @@ The pipeline ensures:
 - 📑 **CSV** – raw data input format  
 - 🏗️ **SQL Server** – relational database for storing processed data  
 
----
-
-## 📸 Screenshots
-
-### Data Flow Task – Part 1
-![Data Flow Task – Part 1](Screenshot 2025-09-18 003332.png)
-
-### Data Flow Task – Part 2
-![Data Flow Task – Part 2](images/dataflow_part2.png)
-
-### Database Output (Error Transactions)
-![Database Output](images/db_output.png)
 
 ---
 
-##🚀 Skills Demonstrated
+## 🚀 Skills Demonstrated
 - Data pipeline development  
 - Data quality & validation techniques  
 - Automated workflows with SSIS  
