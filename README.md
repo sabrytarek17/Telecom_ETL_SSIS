@@ -38,9 +38,7 @@ Telecom_ETL_SSIS_Project/
 
 
 ## 🧪 Transformation Rules
-<p align="center">
-  <img src="images/transformation_rules.png" alt="Transformation Rules" width="600"/>
-</p>
+
 
 ---
 
@@ -57,14 +55,10 @@ Database used: **SSIS_Telecom_DB**
 ## 🖼️ Data Flow Screenshots
 
 ### Data Flow – File Extraction & Validation
-<p align="center">
-  <img src="images/data_flow_1.png" alt="SSIS Data Flow - Extraction & Validation" width="600"/>
-</p>
+
 
 ### Data Flow – Transformation & Load
-<p align="center">
-  <img src="images/data_flow_2.png" alt="SSIS Data Flow - Transformation & Load" width="600"/>
-</p>
+
 
 ---
 
